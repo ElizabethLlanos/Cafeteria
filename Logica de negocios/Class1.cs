@@ -8,5 +8,9 @@ namespace Logica_de_negocios
 {
     public class Class1
     {
+        //Atributos
+        //propiedaes
+        //metodos 
+
     }
 }
