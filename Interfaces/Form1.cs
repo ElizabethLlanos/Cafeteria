@@ -42,5 +42,14 @@ namespace Interfaces
 
 
         }
+
+        private void btnRegresar_Click(object sender, EventArgs e)
+        {
+            frmLogin objRegistro = new frmLogin();
+            objRegistro.Show();
+            this.Hide();
+        }
+
+
     }
 }

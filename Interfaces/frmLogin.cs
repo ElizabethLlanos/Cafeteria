@@ -17,19 +17,11 @@ namespace Interfaces
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
 
-        private void pictureBox1_MouseHover(object sender, EventArgs e)
-        {
-            pictureBox1.BackColor = Color.Tomato;
-        }
 
         private void pictureBox1_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Color.Transparent;
+            pbCerrar.BackColor = Color.Transparent;
         }
 
         private void txtUsuario_Enter(object sender, EventArgs e)
@@ -66,6 +58,18 @@ namespace Interfaces
                 txtContraseña.Text = "Contraseña";
                 txtContraseña.ForeColor = Color.Black;
             }
+        }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            Form1 objPantallaInicio = new Form1();
+            objPantallaInicio.Show();
+            this.Hide();
+        }
+
+        private void pbCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
