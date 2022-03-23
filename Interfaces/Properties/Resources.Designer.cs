@@ -63,6 +63,16 @@ namespace Interfaces.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ICONOLOGIN {
+            get {
+                object obj = ResourceManager.GetObject("ICONOLOGIN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LogoCafeteriaEstar {
             get {
                 object obj = ResourceManager.GetObject("LogoCafeteriaEstar", resourceCulture);
