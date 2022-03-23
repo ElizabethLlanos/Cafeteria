@@ -34,10 +34,9 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.panel4 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.panel4 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.pnlPrincipal.SuspendLayout();
             this.panel5.SuspendLayout();
@@ -112,46 +111,22 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(1, 607);
+            this.button3.Location = new System.Drawing.Point(0, 495);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(247, 94);
             this.button3.TabIndex = 3;
             this.button3.Text = "SALIR";
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // panel4
-            // 
-            this.panel4.BackgroundImage = global::Interfaces.Properties.Resources.LogoCafeteriaEstar;
-            this.panel4.Location = new System.Drawing.Point(82, -1);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(198, 198);
-            this.panel4.TabIndex = 0;
-            // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.Gainsboro;
             this.panel5.Controls.Add(this.button5);
-            this.panel5.Controls.Add(this.button4);
             this.panel5.ForeColor = System.Drawing.SystemColors.ControlText;
             this.panel5.Location = new System.Drawing.Point(1, 390);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(246, 211);
+            this.panel5.Size = new System.Drawing.Size(246, 99);
             this.panel5.TabIndex = 1;
-            // 
-            // button4
-            // 
-            this.button4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.IndianRed;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.ForeColor = System.Drawing.Color.Black;
-            this.button4.Location = new System.Drawing.Point(0, 0);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(246, 94);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "CLIENTE";
-            this.button4.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
@@ -161,12 +136,20 @@
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.Black;
-            this.button5.Location = new System.Drawing.Point(0, 94);
+            this.button5.Location = new System.Drawing.Point(0, 0);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(246, 94);
             this.button5.TabIndex = 5;
             this.button5.Text = "ALIMENTO";
             this.button5.UseVisualStyleBackColor = true;
+            // 
+            // panel4
+            // 
+            this.panel4.BackgroundImage = global::Interfaces.Properties.Resources.LogoCafeteriaEstar;
+            this.panel4.Location = new System.Drawing.Point(82, -1);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(198, 198);
+            this.panel4.TabIndex = 0;
             // 
             // Form1
             // 
@@ -197,7 +180,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
     }
 }
 

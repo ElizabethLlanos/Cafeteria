@@ -10,3 +10,4 @@ C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Inter
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.exe
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.frmClientes.resources
