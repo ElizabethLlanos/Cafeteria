@@ -10,7 +10,7 @@ namespace Logica_de_negocios
     {
         //Atributos
         //propiedaes
-
+        //Metodos
 
     }
 }
