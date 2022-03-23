@@ -23,9 +23,7 @@ C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Inter
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.exe
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.pdb
-<<<<<<< HEAD
 >>>>>>> dec4c0bcc02180ec54b2dfce7ccccd8345236056
 C:\Users\88120\source\repos\GitHub\Interfaces\obj\Debug\Interfaces.frmClientes.resources
-=======
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.frmClientes.resources
 >>>>>>> 56ba165d4785cb9be0778850cea6231332330812
