@@ -1,0 +1,12 @@
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.Form1.resources
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.frmLogin.resources
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.pdb
