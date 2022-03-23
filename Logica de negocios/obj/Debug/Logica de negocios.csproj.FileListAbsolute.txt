@@ -1,0 +1,6 @@
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\bin\Debug\Logica de negocios.dll
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\bin\Debug\Logica de negocios.pdb
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\obj\Debug\Logica de negocios.csproj.AssemblyReference.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\obj\Debug\Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\obj\Debug\Logica de negocios.dll
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Logica de negocios\obj\Debug\Logica de negocios.pdb
