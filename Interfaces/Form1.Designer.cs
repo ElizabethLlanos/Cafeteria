@@ -57,7 +57,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(247, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1150, 48);
+            this.panel2.Size = new System.Drawing.Size(1219, 48);
             this.panel2.TabIndex = 1;
             // 
             // panel4
@@ -75,7 +75,7 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel3.Location = new System.Drawing.Point(247, 48);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1150, 789);
+            this.panel3.Size = new System.Drawing.Size(1219, 789);
             this.panel3.TabIndex = 2;
             // 
             // button1
@@ -85,7 +85,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(0, 193);
+            this.button1.Location = new System.Drawing.Point(0, 190);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(247, 94);
             this.button1.TabIndex = 1;
@@ -99,7 +99,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(3, 293);
+            this.button2.Location = new System.Drawing.Point(0, 290);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(247, 94);
             this.button2.TabIndex = 2;
@@ -113,7 +113,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Cooper Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(3, 393);
+            this.button3.Location = new System.Drawing.Point(0, 390);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(247, 94);
             this.button3.TabIndex = 3;
@@ -124,7 +124,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1397, 837);
+            this.ClientSize = new System.Drawing.Size(1466, 837);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
