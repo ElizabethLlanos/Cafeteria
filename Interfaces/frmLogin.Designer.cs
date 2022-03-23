@@ -52,7 +52,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.PeachPuff;
+            this.panel1.BackColor = System.Drawing.Color.SkyBlue;
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -63,15 +63,14 @@
             // 
             // txtUsuario
             // 
-            this.txtUsuario.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.txtUsuario.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtUsuario.BackColor = System.Drawing.Color.PowderBlue;
             this.txtUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
             this.txtUsuario.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUsuario.ForeColor = System.Drawing.Color.Black;
-            this.txtUsuario.Location = new System.Drawing.Point(147, 234);
+            this.txtUsuario.Location = new System.Drawing.Point(147, 230);
             this.txtUsuario.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(328, 39);
+            this.txtUsuario.Size = new System.Drawing.Size(328, 46);
             this.txtUsuario.TabIndex = 4;
             this.txtUsuario.Text = "Usuario";
             this.txtUsuario.Enter += new System.EventHandler(this.txtUsuario_Enter);
@@ -79,15 +78,14 @@
             // 
             // txtContraseña
             // 
-            this.txtContraseña.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.txtContraseña.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtContraseña.BackColor = System.Drawing.Color.PowderBlue;
             this.txtContraseña.Cursor = System.Windows.Forms.Cursors.Hand;
             this.txtContraseña.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtContraseña.ForeColor = System.Drawing.Color.Black;
             this.txtContraseña.Location = new System.Drawing.Point(147, 321);
             this.txtContraseña.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(328, 39);
+            this.txtContraseña.Size = new System.Drawing.Size(328, 46);
             this.txtContraseña.TabIndex = 5;
             this.txtContraseña.Text = "Contraseña";
             this.txtContraseña.Enter += new System.EventHandler(this.txtContraseña_Enter);
@@ -97,9 +95,10 @@
             // 
             this.btnEntrar.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnEntrar.FlatAppearance.BorderSize = 0;
+            this.btnEntrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.PaleTurquoise;
             this.btnEntrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkTurquoise;
             this.btnEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEntrar.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrar.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEntrar.Location = new System.Drawing.Point(346, 464);
             this.btnEntrar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnEntrar.Name = "btnEntrar";
@@ -137,7 +136,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(62, 321);
+            this.pictureBox4.Location = new System.Drawing.Point(62, 325);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(52, 42);
@@ -179,7 +178,7 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.panel3.BackColor = System.Drawing.Color.PowderBlue;
             this.panel3.Controls.Add(this.pictureBox2);
             this.panel3.Controls.Add(this.btnEntrar);
             this.panel3.Controls.Add(this.pictureBox3);
