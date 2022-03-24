@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Logica_de_negocios
 {
-    public class Class1
+    public class Pruebas
     {
-        //Atributos
-        //propiedaes
-        //Metodos
     }
 }

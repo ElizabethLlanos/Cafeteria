@@ -27,3 +27,6 @@ C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Inter
 C:\Users\88120\source\repos\GitHub\Interfaces\obj\Debug\Interfaces.frmClientes.resources
 C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.frmClientes.resources
 >>>>>>> 56ba165d4785cb9be0778850cea6231332330812
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\bin\Debug\Logica de negocios.dll
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\bin\Debug\Logica de negocios.pdb
+C:\Users\josrt\Source\Repos\ElizabethLlanos\Cafeteria\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
